@@ -1,6 +1,6 @@
 package kata.academy.eurekauploadservice.rest;
 
-import kata.academy.eurekaprofileservice.api.Response;
+import kata.academy.eurekauploadservice.api.Response;
 import org.springframework.cloud.client.circuitbreaker.NoFallbackAvailableException;
 import org.springframework.data.mapping.PropertyReferenceException;
 import org.springframework.http.HttpStatus;
